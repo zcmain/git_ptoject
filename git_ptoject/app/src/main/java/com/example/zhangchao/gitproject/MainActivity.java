@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     private void getString(){
         Log.d(MainActivity.class.getSimpleName(),"print log ......");
         Log.d(MainActivity.class.getSimpleName(),"print log ......");
+        Log.d(MainActivity.class.getSimpleName(),"print log ......");
 
     }
 }
