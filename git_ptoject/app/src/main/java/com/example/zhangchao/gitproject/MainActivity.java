@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.d(MainActivity.class.getSimpleName(),"初始提交");
+        Log.d(MainActivity.class.getSimpleName(),"第二次提交");
+
     }
 }
