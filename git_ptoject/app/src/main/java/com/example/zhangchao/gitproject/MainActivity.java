@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.d(MainActivity.class.getSimpleName(),"初始提交");
         Log.d(MainActivity.class.getSimpleName(),"第二次提交");
+        Log.d(MainActivity.class.getSimpleName(),"第三次提交");
 
     }
 }
