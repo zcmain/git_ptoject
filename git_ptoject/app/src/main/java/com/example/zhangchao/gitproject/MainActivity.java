@@ -14,5 +14,8 @@ public class MainActivity extends AppCompatActivity {
         Log.d(MainActivity.class.getSimpleName(),"第二次提交");
         Log.d(MainActivity.class.getSimpleName(),"第三次提交");
 
+
+        Log.d(MainActivity.class.getSimpleName(),"本地【master】变更啦");
+
     }
 }
