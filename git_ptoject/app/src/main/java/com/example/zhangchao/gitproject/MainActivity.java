@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         Log.d(MainActivity.class.getSimpleName(),"---------------新分支zcmain1被创建了");
+        Log.d(MainActivity.class.getSimpleName(),"分支【zcmain1】变更啦");
 
 
     }
