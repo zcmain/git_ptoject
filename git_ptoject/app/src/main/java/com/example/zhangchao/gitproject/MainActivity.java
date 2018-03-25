@@ -11,5 +11,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.d(MainActivity.class.getSimpleName(),"创建本地分支devlop");
+        getString();
+    }
+    private void getString(){
+        Log.d(MainActivity.class.getSimpleName(),"print log ......");
     }
 }
