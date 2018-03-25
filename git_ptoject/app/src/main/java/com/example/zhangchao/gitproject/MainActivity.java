@@ -17,6 +17,6 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d(MainActivity.class.getSimpleName(),"本地【master】变更啦");
         Log.d(MainActivity.class.getSimpleName(),"本地【master】变更啦2");
-
+        Log.d(MainActivity.class.getSimpleName(),"本地【master】变更啦3");
     }
 }
